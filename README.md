@@ -26,6 +26,7 @@ Predict whether a customer will churn based on their previous data using Machine
 - **Target distribution:** Balanced
 
 ## Setup Instructions
+### python version: 3.9
 
 1. **Clone the repository**
 ```bash
